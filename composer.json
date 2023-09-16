@@ -1,0 +1,20 @@
+{
+    "name": "mvc/portfolio",
+    "description": "my protfolio",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\Portfolio\\": "src/"
+        },"files" :[
+            "src\\core\\support\\helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "osama gasser",
+            "email": "osamagasser531@gmail.com"
+        }
+    ],
+    "require": {}
+}
